@@ -2,8 +2,8 @@
 
 ## 👋 Hi there, I'm Adam
 
-* :bowtie: just a guy who enjoys the odd ramen 🍜, quite a bit of coffee ☕, & sleeping whenever & wherever I can 🥴
-* 🎓 full-stack distributed software engineering development, data science, GIS & other advanced computer science topics
+* :bowtie: just a guy who drinks quite a lot of coffee ☕
+* 🎓 software engineering, data science, GIS & other advanced computer science topics
 
 ### 📈 Repository and User Contribution Statistics
 
