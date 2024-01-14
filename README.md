@@ -1,4 +1,4 @@
-²![Endpoint Badge](https://profileviews-production.up.railway.app/ "GitHub Profile Views (as of 2023-10-05)")
+![Endpoint Badge](https://profileviews-production.up.railway.app/ "GitHub Profile Views (as of 2023-10-05)")
 
 ## 👋 Hi there, I'm Adam
 
