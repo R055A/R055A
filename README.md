@@ -26,7 +26,7 @@ I haven't had time to improve the API fetching and visualization of the statisti
 
 It should be noted that these stats don't just represent project contributions starting from 2021, but from well into the last decade, and it's only public views accounted for since April 2021, since the initial deployment.
 
-It should also be noted that my personal average contribution rate does not reflect the average rate of any other and everyone is welcome to deploy their own GitHub statistical using the provided template by clicking the above images.
+It should also be noted that my personal average contribution rate does not reflect the average rate of any other and everyone is welcome to deploy their own GitHub statistics using the provided template by clicking the above images.
 
 ### 🌱 Badges
 
