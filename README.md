@@ -2,7 +2,7 @@
 
 ## 👋 Hi there, I'm Adam
 
-* :bowtie: just a guy fated to drink coffee ☕ recovering from severe injuries & amnesia 🤕 under furthermore 24/7 extreme adversity ⛈️
+* :bowtie: just a guy who likes to drink coffee ☕
 * 🎓 focus: software engineering, data science, & other advanced computer science topics (& GIS, & so much more!)
 
 ### 📈 Repository and User Contribution Statistics
