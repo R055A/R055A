@@ -11,7 +11,7 @@ Daily generated visualizations of my GitHub user* & repository statistics:
 
 [![GitStats Overview](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overview.svg "R055A/GitStats")![GitStats Languages](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languages.svg "R055A/GitStats")](https://github.com/R055A/GitStats)
     
-> \* _My '**Avg contributions**' rate applies only to [university project repos]((https://github.com/University-Project-Repos) completed with at least 1 other_
+> \* _My '**Avg contributions**' rate applies only to [university project repos](https://github.com/University-Project-Repos) completed with at least 1 other_
 
 <!--
 
