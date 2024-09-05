@@ -2,7 +2,7 @@
 
 ## 👋 Hi there, I'm Adam
 
-* :bowtie: just a guy who likes to drink coffee ☕ crafting simple software solutions & data insights to complex real 🌎 problems following & under recovery from amnesia, other severe injuries & epic insane plagues!
+* :bowtie: just a guy who likes to drink coffee ☕ crafting simple software solutions & data insights to complex real 🌎 problems
 * 🎓 focus: [software engineering, computer & other advanced data engineering and sciences](https://github.com/University-Project-Repos) (& GIS & more!)
 
 ### 📈 Repository and User Contribution Statistics
