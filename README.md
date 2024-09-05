@@ -1,5 +1,3 @@
-![Endpoint Badge](https://profileviews-production.up.railway.app/ "GitHub Profile Views (as of 2023-10-05)")
-
 ## 👋 Hi there, I'm Adam
 
 * :bowtie: just a guy who likes to drink coffee ☕ crafting simple software solutions to complex real 🌎 problems
