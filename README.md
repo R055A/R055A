@@ -1,15 +1,15 @@
 ## 👋 Hi there, I'm Adam
 
-* :bowtie: just a guy who likes to drink coffee ☕ crafting simple software solutions to complex real 🌎 problems
-* 🎓 focus: [software engineering, computer & other advanced data engineering and sciences](https://github.com/University-Project-Repos) (& GIS & more!)
+_just a guy who likes to drink coffee ☕ crafting simple software solutions to complex real 🌎 problems_
+<!-- * 🎓 focus: [software engineering, computer & other advanced data engineering and sciences](https://github.com/University-Project-Repos) (& GIS & more!) -->
 
-### 📈 Repository and User Contribution Statistics
+<!-- ### 📈 Repository and User Contribution Statistics
 
-Daily generated visualizations of my GitHub user* & repository statistics:
+Weekly generated visualizations of my GitHub user & repository statistics:
 
-[![GitStats Overview](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overview.svg "R055A/GitStats")![GitStats Languages](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languages.svg "R055A/GitStats")](https://github.com/R055A/GitStats)
+[![GitStats Overview](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overview.svg "R055A/GitStats")![GitStats Languages](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languages.svg "R055A/GitStats")](https://github.com/R055A/GitStats) -->
     
-> \* _My '**Avg contributions**' rate applies only to [university project repos](https://github.com/University-Project-Repos) completed with at least 1 other_
+<!-- > \* _My '**Avg contributions**' rate applies only to [university project repos](https://github.com/University-Project-Repos completed with at least 1 other_ -->
 
 <!--
 
