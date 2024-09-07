@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Adam
 
-_just a guy who likes to drink coffee ☕ crafting simple software solutions to complex real 🌎 problems_
+_just a guy who likes to drink coffee_ ☕ _crafting simple software solutions to complex real_ 🌎 _problems_
 <!-- * 🎓 focus: [software engineering, computer & other advanced data engineering and sciences](https://github.com/University-Project-Repos) (& GIS & more!) -->
 
 <!-- ### 📈 Repository and User Contribution Statistics
