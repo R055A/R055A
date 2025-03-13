@@ -113,7 +113,7 @@ jobs:
           
           plt.xlabel(xlabel="Date")
           plt.ylabel(ylabel="Count")
-          plt.title(label=f"Repository Traffic Activity Statistics (From {dates[0]})")
+          plt.title(label=f"Repository Activity Statistics (From {dates[0]})")
           plt.xticks(rotation=45)
           plt.legend()
           plt.grid()
