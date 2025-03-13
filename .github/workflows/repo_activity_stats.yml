@@ -138,8 +138,8 @@ jobs:
         run: |
           git config --global user.name "Adam Ross"
           git config --global user.email "14985050+R055A@users.noreply.github.com"
-          git pull
           git add .
           git commit -m "Update README.md, repo activity stats"
+          git pull
           git push
         continue-on-error: true
