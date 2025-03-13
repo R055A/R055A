@@ -75,7 +75,7 @@ jobs:
               if not repos_data:
                   break
               repos.extend(
-                  [repo["full_name"] for repo in repos_data if not OWNERS or OWNERS == [''] or repo["full_name"].split('/')[0] not in OWNERS]
+                  [repo["full_name"] for repo in repos_data if not OWNERS or OWNERS == [''] or repo["full_name"].split('/')[0] in OWNERS]
                   if repos_data else []
               )
           repos = list(set(repo for repo in repos if repo != ''))
