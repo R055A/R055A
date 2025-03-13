@@ -9,7 +9,7 @@ _just a guy who likes to drink coffee_ ☕ _crafting simple software solutions t
 
 [![GitStats Overview](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overview.svg "R055A/GitStats")![GitStats Languages](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languages.svg "R055A/GitStats")](https://github.com/R055A/GitStats)
     
-> _my '**Avg contributions**' rate applies only to [university project repos](https://github.com/University-Project-Repos) completed with at least 1 other_
+> _My Avg contributions mostly include [uni projects](https://github.com/University-Project-Repos), and exclude non-collab, minor roles (open-source, lead), etc_
 
 <!--
 
