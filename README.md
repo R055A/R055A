@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Adam
 
+[![Git Stats Images](https://github.com/R055A/GitStats/actions/workflows/auto_update_stat_images.yml/badge.svg)](https://github.com/R055A/GitStats) [![Repo Activity Stats](https://github.com/R055A/R055A/actions/workflows/repo_activity_stats.yml/badge.svg)](https://github.com/R055A/R055A)
+
 _just a guy who likes to drink coffee_ ☕ _crafting simple software solutions to complex real_ 🌎 _problems_
 <!-- * 🎓 focus: [software engineering, computer & other advanced data engineering and sciences](https://github.com/University-Project-Repos) (& GIS & more!) -->
 
