@@ -2,7 +2,7 @@ name: Repo Activity Stats
 
 on:
   schedule:
-    - cron: "30 06 * * *"
+    - cron: "00 04 * * *"
   workflow_dispatch:
 
 jobs:
@@ -26,16 +26,17 @@ jobs:
           OWNERS_LIST: ${{ secrets.OWNERS_LIST }}
         run: |
           python - <<EOF
-          from requests import get
           from json import load, dump
           from os import getenv, path
           from http import HTTPStatus
+          from requests import get, post
           import matplotlib.pyplot as plt
           from datetime import datetime, timedelta, UTC
           
           GITHUB_API_URL: str = "https://api.github.com"
           TOKEN: str | None = getenv("ACCESS_TOKEN")
           OWNERS: list[str] = getenv("OWNERS_LIST", '').split(',')
+          REPOS: list[str] = getenv("REPOS_LIST", '').split(',')
           HEADERS: dict[str, str] = {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.v3+json"}
           JSON_FILE_NAME: str = "repo_activity_stats.json"
           PNG_FILE_NAME: str = "repo_activity_stats.png"
@@ -63,24 +64,29 @@ jobs:
                   "views": 0,
                   "clones": 0,
                   "stars": 0,
-                  "forks": 0
+                  "forks": 0,
+                  "prs": 0,
+                  "issues": 0
               }
 
-          repos: list[str] = []
+          repos: list[str] = REPOS
           for page_i in range(1, 11):
               repos_data: dict = get_data(f"{GITHUB_API_URL}/user/repos?per_page=100&page={page_i}&type=all")
               if not repos_data:
                   break
               repos.extend(
-                  [repo["full_name"] for repo in repos_data if not OWNERS or repo["full_name"][0] not in OWNERS]
+                  [repo["full_name"] for repo in repos_data if not OWNERS or OWNERS == [''] or repo["full_name"].split('/')[0] not in OWNERS]
                   if repos_data else []
               )
-          
+          repos = list(set(repo for repo in repos if repo != ''))
+
           for repo in repos:
-              views_data: dict = get_data(f"{GITHUB_API_URL}/repos/{repo}/traffic/views")
-              clones_data: dict = get_data(f"{GITHUB_API_URL}/repos/{repo}/traffic/clones")
-              stars_data: dict = get_data(f"{GITHUB_API_URL}/repos/{repo}/stargazers?per_page=100")
-              forks_data: dict = get_data(f"{GITHUB_API_URL}/repos/{repo}/forks?per_page=100")
+              views_data: dict = get_data(url=f"{GITHUB_API_URL}/repos/{repo}/traffic/views")
+              clones_data: dict = get_data(url=f"{GITHUB_API_URL}/repos/{repo}/traffic/clones")
+              stars_data: dict = get_data(url=f"{GITHUB_API_URL}/repos/{repo}/stargazers?per_page=100")
+              forks_data: dict = get_data(url=f"{GITHUB_API_URL}/repos/{repo}/forks?per_page=100")
+              prs_data: dict = get_data(url=f"{GITHUB_API_URL}/repos/{repo}/pulls?state=all&per_page=100")
+              issues_data: dict = get_data(url=f"{GITHUB_API_URL}/repos/{repo}/issues?state=all&per_page=100")
           
               for date in date_range:
                   total_stats[date]["views"] += next(
@@ -89,25 +95,25 @@ jobs:
                       (c['count'] for c in clones_data.get('clones', []) if c['timestamp'].startswith(date)), 0)
                   total_stats[date]["stars"] += sum(1 for s in stars_data if s.get('starred_at', '').startswith(date))
                   total_stats[date]["forks"] += sum(1 for f in forks_data if f.get('created_at', '').startswith(date))
+                  total_stats[date]["prs"] += sum(1 for pr in prs_data if pr.get('created_at', '').startswith(date))
+                  total_stats[date]["issues"] += sum(1 for issue in issues_data if issue.get('created_at', '').startswith(date))
           
           with open(JSON_FILE_NAME, "w") as stats_file:
               dump(total_stats, stats_file, indent=2)
           
           dates: list[str] = list(total_stats.keys())[::-1]
-          views: list[int] = [total_stats[d]["views"] for d in dates]
-          clones: list[int] = [total_stats[d]["clones"] for d in dates]
-          stars: list[int] = [total_stats[d]["stars"] for d in dates]
-          forks: list[int] = [total_stats[d]["forks"] for d in dates]
           
-          plt.figure(figsize=(10, 4))
-          plt.plot(dates, views, label="Views")
-          plt.plot(dates, clones, label="Clones")
-          plt.plot(dates, stars, label="Stars")
-          plt.plot(dates, forks, label="Forks")
+          plt.figure(figsize=(10, 6))
+          plt.plot(dates, [total_stats[d]["views"] for d in dates], label="Views")
+          plt.plot(dates, [total_stats[d]["clones"] for d in dates], label="Clones")
+          plt.plot(dates, [total_stats[d]["stars"] for d in dates], label="Stars")
+          plt.plot(dates, [total_stats[d]["forks"] for d in dates], label="Forks")
+          plt.plot(dates, [total_stats[d]["prs"] for d in dates], label="Pull Requests")
+          plt.plot(dates, [total_stats[d]["issues"] for d in dates], label="Issues")
           
           plt.xlabel(xlabel="Date")
           plt.ylabel(ylabel="Count")
-          plt.title(label=f"Repository Activity Statistics (From {dates[0]})")
+          plt.title(label=f"Repository Traffic Activity Statistics (From {dates[0]})")
           plt.xticks(rotation=45)
           plt.legend()
           plt.grid()
