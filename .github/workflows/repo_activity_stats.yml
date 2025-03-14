@@ -103,14 +103,15 @@ jobs:
                   total_stats[date]["prs"] += sum(1 for pr in prs_data if pr.get('created_at', '').startswith(date))
                   total_stats[date]["issues"] += sum(1 for issue in issues_data if issue.get('created_at', '').startswith(date))
 
-          new_stars: int = (
-              round(max(stars_count - total_stats["stars_sum"], 0)) / min(round(max(stars_count - total_stats["stars_sum"], 0)), len(date_range)) 
-              if min(round(max(stars_count - total_stats["stars_sum"], 0)), len(date_range)) > 0 else 0
-          )      
-          for i, date in enumerate(date_range):
-              if i == min(round(max(stars_count - total_stats["stars_sum"], 0)), len(date_range)):
-                  break
-              total_stats[date]["stars"] += new_stars
+          if total_stats["stars_sum"] > 0:
+              new_stars: int = (
+                  round(max(stars_count - total_stats["stars_sum"], 0)) / min(round(max(stars_count - total_stats["stars_sum"], 0)), len(date_range)) 
+                  if min(round(max(stars_count - total_stats["stars_sum"], 0)), len(date_range)) > 0 else 0
+              )      
+              for i, date in enumerate(date_range):
+                  if i == min(round(max(stars_count - total_stats["stars_sum"], 0)), len(date_range)):
+                      break
+                  total_stats[date]["stars"] += new_stars
           total_stats["stars_sum"] = stars_count
 
           with open(JSON_FILE_NAME, "w") as stats_file:
