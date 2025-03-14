@@ -121,12 +121,12 @@ jobs:
           date_times: list[datetime] = [datetime.strptime(d, "%Y-%m-%d") for d in dates]
 
           plt.figure(figsize=(10, 6))
-          plt.plot(date_times, [total_stats[d]["views"] for d in dates], label="Views", color="#1a7f37", linewidth=2, markersize=5)
-          plt.plot(date_times, [total_stats[d]["clones"] for d in dates], label="Clones", color="#54aeff", linewidth=2, markersize=5)
-          plt.plot(date_times, [total_stats[d]["stars"] for d in dates], label="Stars", color="#eac54f", linewidth=2, markersize=5)
-          plt.plot(date_times, [total_stats[d]["forks"] for d in dates], label="Forks", color="#39d353", linewidth=2, markersize=5)
-          plt.plot(date_times, [total_stats[d]["prs"] for d in dates], label="Pull Requests", color="#8250df", linewidth=2, markersize=5)
-          plt.plot(date_times, [total_stats[d]["issues"] for d in dates], label="Issues", color="#cf222e", linewidth=2, markersize=5)
+          plt.plot(date_times, [total_stats[d]["views"] for d in dates], label="Views", color="#1a7f37", linewidth=2)
+          plt.plot(date_times, [total_stats[d]["clones"] for d in dates], label="Clones", color="#54aeff", linewidth=2)
+          plt.plot(date_times, [total_stats[d]["stars"] for d in dates], label="Stars", color="#eac54f", linewidth=2)
+          plt.plot(date_times, [total_stats[d]["forks"] for d in dates], label="Forks", color="#39d353", linewidth=2)
+          plt.plot(date_times, [total_stats[d]["prs"] for d in dates], label="Pull Requests", color="#8250df", linewidth=2)
+          plt.plot(date_times, [total_stats[d]["issues"] for d in dates], label="Issues", color="#cf222e", linewidth=2)
           
           plt.xlabel(xlabel="Date", fontsize=10)
           plt.ylabel(ylabel="Count", fontsize=10)
