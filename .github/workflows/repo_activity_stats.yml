@@ -24,6 +24,7 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           OWNERS_LIST: ${{ secrets.OWNERS_LIST }}
+          REPOS_LIST: ${{ secrets.REPOS_LIST }}
         run: |
           python - <<EOF
           from json import load, dump
