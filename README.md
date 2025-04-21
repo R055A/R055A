@@ -31,3 +31,5 @@ _recovering from severe injuries (including total amnesia, paralyses, internals,
 <!--REPO_ACTIVITY_STATS_START-->
 ![GitHub Repository Activity Statistics](repo_activity_stats.png)
 <!--REPO_ACTIVITY_STATS_END-->
+
+Better late than never
