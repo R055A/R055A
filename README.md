@@ -3,6 +3,8 @@
 [![Git Stats Images](https://github.com/R055A/GitStats/actions/workflows/auto_update_stat_images.yml/badge.svg)](https://github.com/R055A/GitStats) [![Repo Activity Stats](https://github.com/R055A/R055A/actions/workflows/repo_activity_stats.yml/badge.svg)](https://github.com/R055A/R055A)
 
 _just a guy who likes to drink coffee_ ☕ _crafting simple software solutions to complex real_ 🌎 _problems_
+
+_recovering from severe injuries (total amnesia, paralyses, internals, sense, stab/projectile, & now years of multiple infections head-to-toe corresponding with device damages, etc, etc) & epic_ 🌎 _24/7 plagues (since childhood_ 🤷_)_
 <!-- * 🎓 focus: [software engineering, computer & other advanced data engineering and sciences](https://github.com/University-Project-Repos) (& GIS & more!) -->
 
 ## 📈 Repository and User Contribution Statistics
@@ -10,7 +12,7 @@ _just a guy who likes to drink coffee_ ☕ _crafting simple software solutions t
 <!-- Weekly generated visualizations of my GitHub user & repository statistics: -->
 
 [![GitStats Overview](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overview.svg "R055A/GitStats")![GitStats Languages](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languages.svg "R055A/GitStats")](https://github.com/R055A/GitStats)
-    
+
 > _My Avg contributions mostly include [uni projects](https://github.com/University-Project-Repos), and exclude non-collab, minor roles (open-source, lead), etc_
 
 <!--
