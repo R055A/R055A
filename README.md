@@ -4,7 +4,7 @@
 
 _just a guy who likes to drink coffee_ ☕ _crafting simple software solutions to complex real_ 🌎 _problems_
 
-_recovering from severe injuries (total amnesia, paralyses, internals, sense, stab/projectile, & now years of multiple infections head-to-toe corresponding with device damages, etc, etc) & epic_ 🌎 _24/7 plagues (since childhood_ 🤷_)_
+_recovering from severe injuries (total amnesia, paralyses, internals, sense, stab/projectile, & now years of multiple infections head-to-toe corresponding with device damages, etc, etc) & epic_ 🌎 _24/7 plagues (since childhood_ 🤷)
 <!-- * 🎓 focus: [software engineering, computer & other advanced data engineering and sciences](https://github.com/University-Project-Repos) (& GIS & more!) -->
 
 ## 📈 Repository and User Contribution Statistics
