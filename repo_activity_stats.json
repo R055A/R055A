@@ -1,5 +1,5 @@
 {
-  "stars_sum": 34943,
+  "stars_sum": 34945,
   "2025-03-13": {
     "views": 2,
     "clones": 104,
@@ -1205,6 +1205,14 @@
     "clones": 14,
     "stars": 10.0,
     "forks": 24,
+    "prs": 3,
+    "issues": 3
+  },
+  "2025-07-30": {
+    "views": 2,
+    "clones": 32,
+    "stars": 2.0,
+    "forks": 23,
     "prs": 3,
     "issues": 3
   }
