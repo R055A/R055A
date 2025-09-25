@@ -4,7 +4,7 @@
 
 _just a guy who likes to drink coffee_ ☕ _crafting simple software solutions to complex real_ 🌎 _problems_
 
-2x proud Hacktoberfest tree parent
+2x proud Hacktoberfest tree parent 🌲🤗☕
 
 <!-- _recovering from severe injuries (including total amnesia, paralyses, internals, sense, stab/projectile/foreign-body, & now years of multiple infections head-to-toe corresponding with device damages, etc, etc, etc) & epic_ 🌎 _24/7 deranged genocidal plagues (since childhood_ 🤷) -->
 
