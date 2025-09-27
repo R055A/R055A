@@ -32,8 +32,13 @@ _just a guy who likes to drink coffee_ ☕ _crafting simple software solutions t
 
 #
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=R055A&theme=ocean-gradient)](https://git.io/streak-stats)
+
+#
+
 <!--REPO_ACTIVITY_STATS_START-->
 ![GitHub Repository Activity Statistics](repo_activity_stats.png)
 <!--REPO_ACTIVITY_STATS_END-->
 
 <!-- Better late than never -->
+
