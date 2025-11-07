@@ -57,7 +57,7 @@ jobs:
           GH_USER_ID: ${{ env.GH_USER_ID }}
           GH_USER_NAME: ${{ env.GH_USER_NAME }}
         run: |
-          git add README.md index.md imgs/*.svg || true
+          git add $(ls README.md */README.md index.md imgs/*.svg 2>/dev/null | grep -v '^ls:')
           if ! git diff --cached --quiet; then
             git config user.name "${GH_USER_NAME}"
             git config user.email "${GH_USER_ID}+${GH_USERNAME}@users.noreply.github.com"
