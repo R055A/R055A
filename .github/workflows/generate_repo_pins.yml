@@ -50,6 +50,7 @@ jobs:
           REPO_NAMES_EXCLUSIVE: ${{ secrets.REPO_NAMES_EXCLUSIVE }}
           IS_EXCLUDE_REPOS_OWNED: ${{ secrets.IS_EXCLUDE_REPOS_OWNED }}
           IS_EXCLUDE_REPOS_CONTRIBUTED: ${{ secrets.IS_EXCLUDE_REPOS_CONTRIBUTED }}
+          IS_CONTRIBUTION_STATS: ${{ secrets.IS_CONTRIBUTION_STATS }}
         run: python readme-repo-pins-src/gh_profile_repo_pins.py
 
       - name: Commit
