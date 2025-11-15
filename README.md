@@ -8,7 +8,7 @@ including motor to complement paralyses, etc. Not even in the sociotechnical eme
 with ongoing 24/7 epic plagues of random wrongdoing insanity continuing to harass my every breath eternal, global. Too much to remember, spanning longer than average human memory, anyway.
 
 <!-- START: REPO-PINS -->
-[![profile-icons/readme-repo-pins-src pin img](imgs/0.svg)](https://github.com/profile-icons/readme-repo-pins-src) [![R055A pin img](imgs/1.svg)](https://github.com/R055A/R055A) 
-[![DenverCoder1/readme-typing-svg pin img](imgs/2.svg)](https://github.com/DenverCoder1/readme-typing-svg) [![profile-icons/GitStats pin img](imgs/3.svg)](https://github.com/profile-icons/GitStats) 
-[![Hacktoberfest-Stats/hacktoberfest-stats pin img](imgs/4.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats) [![Hacktoberfest-Stats/hacktoberfest-stats-tap pin img](imgs/5.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats-tap) 
+[![R055A pin img](imgs/0.svg)](https://github.com/R055A/R055A) [![profile-icons/GitStats pin img](imgs/1.svg)](https://github.com/profile-icons/GitStats) 
+[![Hacktoberfest-Stats/hacktoberfest-stats pin img](imgs/2.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats) [![profile-icons/readme-repo-pins-src pin img](imgs/3.svg)](https://github.com/profile-icons/readme-repo-pins-src) 
+[![DenverCoder1/readme-typing-svg pin img](imgs/4.svg)](https://github.com/DenverCoder1/readme-typing-svg) [![Hacktoberfest-Stats/hacktoberfest-stats-tap pin img](imgs/5.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats-tap) 
 <!-- END: REPO-PINS -->
