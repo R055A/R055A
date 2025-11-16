@@ -13,3 +13,9 @@ Too much to remember, spanning longer than average human memory, anyway - extrem
 [![R055A pin img](imgs/2.svg)](https://github.com/R055A/R055A) [![Hacktoberfest-Stats/hacktoberfest-stats-tap pin img](imgs/3.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats-tap) 
 [![profile-icons/git-stats pin img](imgs/4.svg)](https://github.com/profile-icons/git-stats) [![DenverCoder1/readme-typing-svg pin img](imgs/5.svg)](https://github.com/DenverCoder1/readme-typing-svg) 
 <!-- END: REPO-PINS -->
+
+# Fun facts
+
+Frankly, should be not fun facts, but here goes:
+
+A couple decade ago, EM was sleeping on an office floor, or was it a futon? Wait, a couple decades ago I slept on a futon on a sloped garage floor, or sauna. A couple decades ago I was also purchasing a kebab/souvlaki & eating it too when noticing EM awkwardly gawking at me from behind a computer game shop counter next to food court, back to customers (if any); like backward window shopping. How do I know? - the posture, tensity, & eccentric promoting & elaborating of Paypal as a viable investment solution.
