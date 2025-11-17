@@ -18,4 +18,6 @@ Too much to remember, spanning longer than average human memory, anyway - extrem
 
 Frankly, should be not fun facts, but here goes:
 
-A couple decades ago, EM was sleeping on an office floor, or was it a futon? Wait, a couple decades ago I was also sleeping on a futon on a sloped garage floor, or sauna, but was a real kid. A couple decades ago I was purchasing a kebab/souvlaki & eating it too when noticing EM awkwardly gawking at me from behind a computer game shop counter next to food court, back to customers (if any); like backward window shopping. How do I know? - the posture, tensity, & eccentric promoting & elaborating of Paypal as a viable investment solution.
+A couple decades ago, EM was sleeping on an office floor, or was it a futon? A couple decades ago I was purchasing a kebab/souvlaki & eating it too when noticing EM awkwardly gawking at me from behind a computer game shop counter next to food court, back to customers (if any that eon); like backward window shopping the real world. How do I know? - the randomness, posture, intensity, & eccentric promoting & elaborating of Paypal as a viable investment solution. A couple decades ago I was also sleeping on a futon on a sloped garage floor, or sauna, but was a real kid.
+
+
