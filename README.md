@@ -2,12 +2,12 @@
 
 Just a guy who likes coffee ☕ crafting simple software solutions to complex real-world 🌎 problems. Code for the people.
 
-Not an IT prodigy, not even a PC until adulthood, not that it matters, suffering, & independently recovering & rehabilitating   
+Not an IT prodigy, not even a PC until adulthood, not that it matters, suffering, & independently recovering & rehabilitating  
 from years of multiple severe injuries, including total loss of not just memory but all skills & senses, including motor to  
 complement paralyses, etc; like Bourne but without the convenience of a montage, Swiss bank, etc - not even a derelict VW.  
-Not even in the sociotechnical emergence of AI, nor a PC today, nor ever for long with ongoing  
-24/7 epic plagues of random wrongdoing insanity continuing to harass my every breath eternal, global. Too much to remember,  
-spanning longer than average human memory, anyway - extreme malevolent machinations since early childhood to be precise!?  
+Not even in the sociotechnical emergence of AI, nor a PC today, nor ever for long with ongoing 24/7 epic plagues of random  
+wrongdoing insanity continuing to harass my every breath eternal, global at all intent expense on me. Too much to remember,  
+spanning longer than human memory, label use-by date, etc - malevolent machinations since early childhood to be precise!?  
 
 <!-- START: REPO-PINS -->
 [![R055A pin img](imgs/0.svg)](https://github.com/R055A/R055A) [![DenverCoder1/readme-typing-svg pin img](imgs/1.svg)](https://github.com/DenverCoder1/readme-typing-svg) 
