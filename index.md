@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 👋 Hi there. Just a guy who likes coffee ☕ crafting simple software solutions to complex real-world 🌎 problems. Code for the people.
 
 Not an IT prodigy, not even a PC until adulthood, not that it matters, suffering, & independently recovering & rehabilitating  
