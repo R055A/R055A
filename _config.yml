@@ -1,3 +1,9 @@
 theme: jekyll-theme-primer
 title: Adam Ross
 description: Code for the people. The source is open.
+url: "https://r055a.github.io/R055A/"
+profile_url: "https://github.com/R055A"
+author:
+    name: Adam Ross
+plugins:
+  - jekyll-seo-tag
