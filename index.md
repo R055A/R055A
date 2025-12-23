@@ -14,9 +14,9 @@ wrongdoing insanity collectively continuing to harass my every breath eternal, g
 to remember, spanning longer than human memory, label use-by date, etc - malevolent machinations since childhood to be precise!?  
 
 <!-- START: REPO-PINS -->
-[![profile-icons/readme-repo-pins-src pin img](imgs/0.svg)](https://github.com/profile-icons/readme-repo-pins-src) [![DenverCoder1/readme-typing-svg pin img](imgs/1.svg)](https://github.com/DenverCoder1/readme-typing-svg) 
-[![Hacktoberfest-Stats/hacktoberfest-stats pin img](imgs/2.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats) [![R055A pin img](imgs/3.svg)](https://github.com/R055A/R055A) 
-[![profile-icons/git-stats pin img](imgs/4.svg)](https://github.com/profile-icons/git-stats) [![Hacktoberfest-Stats/hacktoberfest-stats-tap pin img](imgs/5.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats-tap) 
+<object type="image/svg+xml" data="imgs/0.svg"></object> <object type="image/svg+xml" data="imgs/1.svg"></object> 
+<object type="image/svg+xml" data="imgs/2.svg"></object> <object type="image/svg+xml" data="imgs/3.svg"></object> 
+<object type="image/svg+xml" data="imgs/4.svg"></object> <object type="image/svg+xml" data="imgs/5.svg"></object> 
 <!-- END: REPO-PINS -->
 
 # Fun facts
