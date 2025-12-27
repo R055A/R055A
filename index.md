@@ -8,8 +8,8 @@ layout: default
 
 # Fun facts
 
-Basically, I completed enough credits for two master's degrees before graduating with any bachelor's, which is only not two itself if not for indescribably abysmal, inherintly catch-22 sisyphean delays to leave just as I entered; double requirements for less than half rights under the most adverse of circumstances to say the utmost least.  
-As if suffering, & independently recovering & rehabilitating from years of multiple consecutive severe injuries, including total loss of not just memory but all skills & senses, including motor to complement paralyses, etc. (like Bourne but without a montage) while honestly & aptitudinally completing these studies, combined with ongoing 24/7 epic plagues of random wrongdoing insanity collectively continuing to harass my every breath eternal, global at all compulsive expense on me isn't horrific enough.  
+Basically, I completed enough credits for two master's degrees before graduating with any bachelor's, which is only not two itself if not for ineffably abysmal, inexorable, inherintly catch-22, sisyphean delays to leave just as I entered; double requirements for less than half rights under the most adverse of circumstances to say the utmost least.  
+As if suffering, & independently recovering & rehabilitating from years of multiple consecutive severe injuries, including total loss of not just memory but all skills & senses, including motor to complement paralyses, etc. (kind of like Bourne but without a montage, & obviously with more problems) while honestly & aptitudinally completing these studies (all possibly relevant credits or advanced equivalences from studies abroad with participation in formal exchanges, & much more), combined with ongoing 24/7 epic plagues of random wrongdoing insanity collectively continuing to harass my every breath eternal, global at all compulsive expense on me without any support isn't horrific enough.  
 View my studies [here](https://university-project-repos.github.io/.github/).
 
 <!-- START: REPO-PINS -->
