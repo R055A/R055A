@@ -6,12 +6,12 @@ layout: default
 
 [![GitStats Overview](https://raw.githubusercontent.com/R055A/GitStats/refs/heads/actions_branch/generated_images/overview.svg)![GitStats Languages](https://raw.githubusercontent.com/R055A/GitStats/refs/heads/actions_branch/generated_images/languages.svg)](https://github.com/R055A/GitStats)
 
-Not an IT prodigy, not even a PC until adulthood, not that it matters, suffering, & independently recovering & rehabilitating  
+<!-- Not an IT prodigy, not even a PC until adulthood, not that it matters, suffering, & independently recovering & rehabilitating  
 from years of multiple severe injuries, including total loss of not just memory but all skills & senses, including motor to  
 complement paralyses, etc; like Bourne but without the convenience of a montage, Swiss bank, etc - not even a derelict VW.  
 Not even with AI, nor a PC today, nor ever for long with ongoing 24/7 epic plagues of random  
 wrongdoing insanity collectively continuing to harass my every breath eternal, global at all compulsive expense on me. Too much  
-to remember, spanning longer than human memory, label use-by date, etc - malevolent machinations since childhood to be precise!?  
+to remember, spanning longer than human memory, label use-by date, etc - malevolent machinations since childhood to be precise!? -->  
 
 <!-- START: REPO-PINS -->
 <object type="image/svg+xml" data="imgs/0.svg"></object> <object type="image/svg+xml" data="imgs/1.svg"></object> 
