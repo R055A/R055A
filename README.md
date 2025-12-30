@@ -10,6 +10,6 @@ Basically, I completed enough credits for two master's degrees before graduating
 
 <!-- START: REPO-PINS -->
 [![Hacktoberfest-Stats/hacktoberfest-stats-tap pin img](imgs/0.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats-tap) [![Hacktoberfest-Stats/hacktoberfest-stats pin img](imgs/1.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats) 
-[![DenverCoder1/readme-typing-svg pin img](imgs/2.svg)](https://github.com/DenverCoder1/readme-typing-svg) [![profile-icons/readme-repo-pins-src pin img](imgs/3.svg)](https://github.com/profile-icons/readme-repo-pins-src) 
-[![R055A pin img](imgs/4.svg)](https://github.com/R055A/R055A) [![profile-icons/git-stats pin img](imgs/5.svg)](https://github.com/profile-icons/git-stats) 
+[![profile-icons/git-stats pin img](imgs/2.svg)](https://github.com/profile-icons/git-stats) [![profile-icons/readme-repo-pins-src pin img](imgs/3.svg)](https://github.com/profile-icons/readme-repo-pins-src) 
+[![R055A pin img](imgs/4.svg)](https://github.com/R055A/R055A) [![DenverCoder1/readme-typing-svg pin img](imgs/5.svg)](https://github.com/DenverCoder1/readme-typing-svg) 
 <!-- END: REPO-PINS -->
