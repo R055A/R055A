@@ -6,6 +6,6 @@ Just a guy who likes coffee ☕ crafting simple software solutions to complex re
 
 <!-- START: REPO-PINS -->
 [![DenverCoder1/readme-typing-svg pin img](imgs/0.svg)](https://github.com/DenverCoder1/readme-typing-svg) [![profile-icons/readme-repo-pins-src pin img](imgs/1.svg)](https://github.com/profile-icons/readme-repo-pins-src) 
-[![profile-icons/git-stats pin img](imgs/2.svg)](https://github.com/profile-icons/git-stats) [![Hacktoberfest-Stats/hacktoberfest-stats-tap pin img](imgs/3.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats-tap) 
-[![R055A pin img](imgs/4.svg)](https://github.com/R055A/R055A) 
+[![Hacktoberfest-Stats/hacktoberfest-stats-tap pin img](imgs/2.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats-tap) [![dna-inbreeding-estimate pin img](imgs/3.svg)](https://r055a.github.io/dna-inbreeding-estimate) 
+[![profile-icons/git-stats pin img](imgs/4.svg)](https://github.com/profile-icons/git-stats) [![R055A pin img](imgs/5.svg)](https://github.com/R055A/R055A) 
 <!-- END: REPO-PINS -->
