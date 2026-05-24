@@ -2,7 +2,7 @@
 
 Just a guy who likes coffee ☕ crafting simple software solutions to complex real-world 🌎 problems. Code for the people.
 
-[![GitStats Overview](https://raw.githubusercontent.com/R055A/GitStats/refs/heads/actions_branch/generated_images/overview.svg)![GitStats Languages](https://raw.githubusercontent.com/R055A/GitStats/refs/heads/actions_branch/generated_images/languages.svg)](https://github.com/R055A/GitStats)
+[![Overview](https://raw.githubusercontent.com/profile-icons/git-stats/refs/heads/generated/overview.svg)![Languages](https://raw.githubusercontent.com/profile-icons/git-stats/refs/heads/generated/languages.svg)](https://github.com/profile-icons/git-stats)
 
 <!-- START: REPO-PINS -->
 [![profile-icons/git-stats pin img](imgs/0.svg)](https://github.com/profile-icons/git-stats) [![dna-inbred-estimate pin img](imgs/1.svg)](https://github.com/R055A/dna-inbred-estimate) 
