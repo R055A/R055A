@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Adam
 
-Just a guy who likes coffee ☕ crafting simple software solutions to complex real-world 🌎 problems. Code for the people.
+Just a guy who likes coffee ☕ crafting simple software solutions to complex real-world 🌎 problems.
 
-[![Overview](https://raw.githubusercontent.com/profile-icons/git-stats/refs/heads/generated/overview.svg)![Languages](https://raw.githubusercontent.com/profile-icons/git-stats/refs/heads/generated/languages.svg)](https://github.com/profile-icons/git-stats)
+[![Overview](https://raw.githubusercontent.com/profile-icons/github-stats-modified/refs/heads/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/profile-icons/github-stats-modified/refs/heads/generated/languages.svg)](https://github.com/profile-icons/github-stats-modified)
 
 <!-- START: REPO-PINS -->
 [![profile-icons/git-stats pin img](imgs/0.svg)](https://github.com/profile-icons/git-stats) [![dna-inbred-estimate pin img](imgs/1.svg)](https://github.com/R055A/dna-inbred-estimate) 
