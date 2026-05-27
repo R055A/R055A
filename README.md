@@ -6,7 +6,7 @@ Just a guy who likes coffee ☕ crafting simple software solutions to complex re
 ![Languages](https://raw.githubusercontent.com/profile-icons/github-stats-modified/refs/heads/generated/languages.svg)](https://github.com/profile-icons/github-stats-modified)
 
 <!-- START: REPO-PINS -->
-[![dna-inbred-estimate pin img](imgs/0.svg)](https://github.com/R055A/dna-inbred-estimate) [![profile-icons/github-stats-modified pin img](imgs/1.svg)](https://github.com/profile-icons/github-stats-modified) 
-[![profile-icons/readme-repo-pins-src pin img](imgs/2.svg)](https://github.com/profile-icons/readme-repo-pins-src) [![Hacktoberfest-Stats/hacktoberfest-stats-tap pin img](imgs/3.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats-tap) 
-[![R055A pin img](imgs/4.svg)](https://github.com/R055A/R055A) [![DenverCoder1/github-readme-streak-stats pin img](imgs/5.svg)](https://github.com/DenverCoder1/github-readme-streak-stats) 
+[![DenverCoder1/github-readme-streak-stats pin img](imgs/0.svg)](https://github.com/DenverCoder1/github-readme-streak-stats) [![R055A pin img](imgs/1.svg)](https://github.com/R055A/R055A) 
+[![dna-inbred-estimate pin img](imgs/2.svg)](https://github.com/R055A/dna-inbred-estimate) [![profile-icons/readme-repo-pins-src pin img](imgs/3.svg)](https://github.com/profile-icons/readme-repo-pins-src) 
+[![profile-icons/github-stats-modified pin img](imgs/4.svg)](https://github.com/profile-icons/github-stats-modified) [![Hacktoberfest-Stats/hacktoberfest-stats-tap pin img](imgs/5.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats-tap) 
 <!-- END: REPO-PINS -->
