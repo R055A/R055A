@@ -10,3 +10,5 @@ Just a guy who likes coffee ☕ crafting simple software solutions to complex re
 [![profile-icons/github-stats-modified pin img](imgs/2.svg)](https://github.com/profile-icons/github-stats-modified) [![R055A pin img](imgs/3.svg)](https://github.com/R055A/R055A) 
 [![dna-inbred-estimate pin img](imgs/4.svg)](https://github.com/R055A/dna-inbred-estimate) [![profile-icons/readme-repo-pins pin img](imgs/5.svg)](https://github.com/profile-icons/readme-repo-pins) 
 <!-- END: REPO-PINS -->
+
+![My GitHub Game](imgs/game.gif)
