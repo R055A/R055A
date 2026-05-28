@@ -1,4 +1,4 @@
-name: Update Space Shooter Game
+name: update contributions shooter
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
 
       - uses: czl9707/gh-space-shooter@v2
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GH_TOKEN }}
           output-path: 'imgs/game.gif'
           strategy: 'random'
-          commit-message: 'Update contributions graph shooter gif'
+          commit-message: 'Update contributions shooter gif'
