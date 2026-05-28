@@ -13,3 +13,5 @@ title: GitHub
 <object type="image/svg+xml" data="imgs/2.svg"></object> <object type="image/svg+xml" data="imgs/3.svg"></object> 
 <object type="image/svg+xml" data="imgs/4.svg"></object> <object type="image/svg+xml" data="imgs/5.svg"></object> 
 <!-- END: REPO-PINS -->
+
+![My GitHub Game](imgs/game.gif)
