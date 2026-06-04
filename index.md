@@ -13,4 +13,6 @@ title: GitHub
 <object type="image/svg+xml" data="imgs/2.svg"></object> <object type="image/svg+xml" data="imgs/3.svg"></object> 
 <!-- END: REPO-PINS -->
 
+I removed profile followers due to privacy & safety concerns, but feel free to follow any orgs & repos 👍
+
 ![My GitHub Game](imgs/game.gif)
