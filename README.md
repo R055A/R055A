@@ -10,6 +10,6 @@ Just a guy who likes coffee ☕ crafting simple software solutions to complex re
 [![R055A pin img](imgs/2.svg)](https://github.com/R055A/R055A) [![profile-icons/readme-repo-pins pin img](imgs/3.svg)](https://github.com/profile-icons/readme-repo-pins) 
 <!-- END: REPO-PINS -->
 
-I removed profile followers due to privacy & safety concerns, but feel free to follow any orgs & repos.
+I removed profile followers due to privacy & safety concerns, but feel free to follow any orgs & repos 👍
 
 ![My GitHub Game](imgs/game.gif)
