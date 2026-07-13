@@ -6,8 +6,8 @@ Just a guy who likes coffee ☕ crafting simple software solutions to complex re
 ![Languages](https://raw.githubusercontent.com/profile-icons/github-stats-modified/refs/heads/generated/languages.svg)](https://github.com/profile-icons/github-stats-modified)
 
 <!-- START: REPO-PINS -->
-[![profile-icons/readme-repo-pins pin img](imgs/0.svg)](https://github.com/profile-icons/readme-repo-pins) [![dna-inbred-estimate pin img](imgs/1.svg)](https://github.com/R055A/dna-inbred-estimate) 
-[![R055A pin img](imgs/2.svg)](https://github.com/R055A/R055A) [![Hacktoberfest-Stats/hacktoberfest-stats-tap pin img](imgs/3.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats-tap) 
+[![R055A pin img](imgs/0.svg)](https://github.com/R055A/R055A) [![profile-icons/readme-repo-pins pin img](imgs/1.svg)](https://github.com/profile-icons/readme-repo-pins) 
+[![Hacktoberfest-Stats/hacktoberfest-stats-data pin img](imgs/2.svg)](https://github.com/Hacktoberfest-Stats/hacktoberfest-stats-data) [![dna-inbred-estimate pin img](imgs/3.svg)](https://github.com/R055A/dna-inbred-estimate) 
 <!-- END: REPO-PINS -->
 
 I removed profile followers due to privacy & safety concerns, but feel free to follow any orgs & repos 👍
